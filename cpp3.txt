@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: cpp1, Configuration: Debug Win32 ------
+1>  cpp2.cpp
+1>  cpp1.vcxproj -> D:\Compro sec.3\cpp1\Debug\cpp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
